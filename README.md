@@ -4,6 +4,8 @@
 
 #### `Telegram:` [https://t.me/tipichnyj_web_razrabotchik](https://t.me/tipichnyj_web_razrabotchik)
 
+#### `Youtube:` [Как сделать плавный скролл по странице в React JS | ScrollTo in React JS](https://youtube.com/shorts/HB7Pkqomrs8)
+
 ---
 
 #### `git clone https://github.com/DmitriyShkredov/react-scroll-into-view`
